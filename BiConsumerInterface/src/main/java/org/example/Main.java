@@ -13,7 +13,7 @@ public class Main {
                 (n1,n2) -> {
                 System.out.println(n1*n2);
                 };
-        biConsumer.accept(2.0,4.0);
+        biConsumer.accept(2.0,6.0);
 
         Map<String,String> map = new HashMap<String,String>();
         String[][] arreglo = {{"Juan","PER"},{"Javier","IND"},{"Paola","KOR"},{"Rene","COL"}};

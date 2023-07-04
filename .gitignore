@@ -1,4 +1,6 @@
 .idea
-.DS_Store
-/build
-.externalNativeBuild
+*.iws
+*.iml
+*.ipr
+target
+./**/target/

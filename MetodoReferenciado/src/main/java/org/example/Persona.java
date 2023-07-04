@@ -38,6 +38,10 @@ public class Persona {
     public static int compararPorEdad(Persona a, Persona b){
         return a.getEdad().compareTo(b.getEdad());
     }
+
+    public int compararPorEdad2(Persona per){
+        return this.getEdad().compareTo(per.getEdad());
+    }
     @Override
     public String toString() {
         return "Persona{" +
