@@ -1,0 +1,4 @@
+Un Pipeline de CI / CD es el conjunto completo de procesos que se
+ejecutan cuando activa el trabajo en sus proyectos. Las canalizaciones
+abarcan sus flujos de trabajo, que coordinan sus trabajos, y
+todo esto se define en el archivo de configuración de su proyecto
